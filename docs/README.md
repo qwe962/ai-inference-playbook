@@ -11,6 +11,7 @@
 5. [显存估算与 KV Cache](memory-and-kv-cache/)
 6. [API 与服务运维](api-and-operations/)
 7. [模型部署案例](model-recipes/)
-8. [常见问题排查](troubleshooting/)
+8. [模型与推理框架适配](model-framework-compatibility/)
+9. [常见问题排查](troubleshooting/)
 
 各目录的 `README.md` 是该主题的索引。新增文章后，应同时更新对应索引。

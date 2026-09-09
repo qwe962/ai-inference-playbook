@@ -26,6 +26,7 @@
 | [`docs/memory-and-kv-cache/`](docs/memory-and-kv-cache/) | 显存估算、KV Cache 与容量规划 |
 | [`docs/api-and-operations/`](docs/api-and-operations/) | 鉴权、健康检查、兼容接口与服务运维 |
 | [`docs/model-recipes/`](docs/model-recipes/) | MiniMax、DeepSeek、Qwen 等模型部署案例 |
+| [`docs/model-framework-compatibility/`](docs/model-framework-compatibility/) | 主流模型、推理框架版本与功能适配关系 |
 | [`docs/troubleshooting/`](docs/troubleshooting/) | CUDA、OOM、端口、容器等问题排查 |
 | [`templates/`](templates/) | 新增部署、优化与故障记录时使用的模板 |
 | [`assets/`](assets/) | 文档引用的图片、图表和其他静态资源 |
