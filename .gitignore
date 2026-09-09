@@ -1,0 +1,33 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and local outputs
+*.log
+logs/
+outputs/
+tmp/
+
+# Model and dataset artifacts
+models/
+checkpoints/
+datasets/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
