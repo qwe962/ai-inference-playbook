@@ -2,13 +2,11 @@
 
 一个面向实际工程的 AI 推理部署与优化知识库。
 
-这个项目不以堆放零散笔记为目标，而是沉淀可复用、可验证、可维护的部署方法、优化实验、故障案例与模型实践。
-
 ## 内容范围
 
 - SGLang 和 vLLM 服务部署
 - Docker、CUDA 与 NVIDIA GPU 环境
-- NVIDIA H20 多卡模型部署
+- 多卡模型部署
 - Tensor Parallel、显存估算与 KV Cache
 - API Key、健康检查与 OpenAI 兼容接口
 - MiniMax、DeepSeek、Qwen 部署案例
